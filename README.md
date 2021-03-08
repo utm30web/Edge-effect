@@ -14,8 +14,7 @@ Load data:
 2. Input polygon load "CENSAL_BAR"
 3. Distance to axis (we have chosen 100 meters)
 4. Choose linear function or normal function.
-5. You will get as final result a layer in shape format. 
-
+5. You will get as final result a layer in shape format and two files in csv. format. 
 Important aspects to consider:
 - Points and polygon layers have to be in the same projection.
 - The coordinate system of points has to be in longitude and latitude. 
