@@ -20,4 +20,5 @@ Important aspects to consider:
 - The coordinate system of points has to be in longitude and latitude. 
 - The following packages need to be installed in R beforehand: "dplyr", "geosphere", "ggplot2",  "shapefiles", "maptools", "broom" .
 
-You can find the full text of the tool at ---
+You can find the full text of the tool at:
+Salafranca, D., Maldonado-Guzmán, D. y Saldaña-Taboada, P. (2022). Crime beyond the edge: development of a tool to correct the edge effect on crime count, Annals of GIS, https://doi.org/10.1080/19475683.2022.2052748 
