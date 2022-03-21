@@ -1,4 +1,4 @@
-# Edge_effect
+# Point_to_edge-correction-toolbox
 This is a tool developed for the ArcGis Geographic Information System that allows solving the border effect that would appear when using data in the shape of points aggregated to artificially delimited spatial units of analysis. For its use, a dataset of thefts in the city of Barcelona in 2016 is made available. 
 
 Tool installation:
